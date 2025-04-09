@@ -1,6 +1,6 @@
 # Music Streaming Analytics Dashboard
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Music+Streaming+Dashboard)
+[![Dashboard Preview](https://via.placeholder.com/800x400?text=Music+Streaming+Dashboard)](https://music-platforms-2024.streamlit.app/)
 
 ## Overview
 
